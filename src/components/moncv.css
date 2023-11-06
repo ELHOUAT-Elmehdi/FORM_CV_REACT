@@ -1,0 +1,31 @@
+.centered .myphoto {
+    width: 150px;
+    border-radius: 45%;
+    height: 190px;
+    transform: translate(55px);
+  }
+  .cv-container {
+    display: flex;
+    width: 90%;
+    max-width: 950px;
+    margin: 0 auto;
+  }
+  .cv-column1 {
+    flex: 1;
+    padding: 25px;
+  }
+  .cv-column2 {
+    flex: 1;
+    padding: 25px;
+  }
+  .Fouter {
+    text-align: center;
+        
+  }
+  .cvbody {
+    background-image: url('https://i.pinimg.com/1200x/32/7d/3b/327d3b1d497e1faf15c0a40c4f8e9ee7.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;   
+  }
+  
