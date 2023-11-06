@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Form_CV_REACT/static/css/main.f78dc016.css",
+    "main.js": "/Form_CV_REACT/static/js/main.9d9f065c.js",
+    "static/js/787.767cf7a8.chunk.js": "/Form_CV_REACT/static/js/787.767cf7a8.chunk.js",
+    "static/media/myprofilephoto.jpeg": "/Form_CV_REACT/static/media/myprofilephoto.fb605b88db73811ee0f2.jpeg",
+    "index.html": "/Form_CV_REACT/index.html",
+    "main.f78dc016.css.map": "/Form_CV_REACT/static/css/main.f78dc016.css.map",
+    "main.9d9f065c.js.map": "/Form_CV_REACT/static/js/main.9d9f065c.js.map",
+    "787.767cf7a8.chunk.js.map": "/Form_CV_REACT/static/js/787.767cf7a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f78dc016.css",
+    "static/js/main.9d9f065c.js"
+  ]
+}
