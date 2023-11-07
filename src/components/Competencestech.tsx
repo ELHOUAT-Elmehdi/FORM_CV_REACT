@@ -1,4 +1,4 @@
-export const Compétences_tech = () => {
+export const Competencestech = () => {
     return (
         <div>
             <h2>COMPÉTENCES TECHNIQUES:</h2>

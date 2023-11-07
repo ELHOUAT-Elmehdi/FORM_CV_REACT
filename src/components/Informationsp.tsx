@@ -1,5 +1,5 @@
 
-export const Informations_p = () => {
+export const Informationsp = () => {
     return (  
         <div className="informationsp">
             <h2>INFORMATIONS PERSONNELLES:</h2>

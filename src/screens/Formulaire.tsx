@@ -1,4 +1,4 @@
-import "../components/for.css";
+import "../components/For.css";
 import { TitreCv } from "../components/TitreCv";
 import { Titredelapage } from "../components/Titredelapage";
 import { Adr } from "../components/Adr";
@@ -18,22 +18,18 @@ import { Competencestechniques } from "../components/Competencestechniques";
 import { Formation } from "../components/Formation";
 import { Interets } from "../components/Interets";
 import { Profil } from "../components/Profil";
-import {Routes,Route,NavLink} from "react-router-dom";
 
 
 
-function Formulaire()  {
+
+export const  Formulaire = ()=>  {
   
   return (
     <>
       <head>
         <div><Titredelapage /></div>
       </head>
-      <body className="formbody">
-        <nav className="a">
-            <NavLink to="/" >Cv d'Elmehdi </NavLink>
-            <NavLink to="/Formulaire" >Ajouter votre CV </NavLink>
-        </nav>
+      <body className="formbody" >
         <h1 className="formh1">Formulaire-CV</h1>
         <div>
           <form>
@@ -61,5 +57,3 @@ function Formulaire()  {
     </>
   );
 }
-
-export default Formulaire;

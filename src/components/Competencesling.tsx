@@ -1,4 +1,4 @@
-export const Compétences_ling = () => {
+export const Competencesling = () => {
     return (
         <div>
             <h2>COMPÉTENCES LINGUISTIQUES:</h2>

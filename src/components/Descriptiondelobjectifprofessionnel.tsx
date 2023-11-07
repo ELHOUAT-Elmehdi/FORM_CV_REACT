@@ -1,4 +1,4 @@
-export const Description_de_l_objectif_professionnel = () => {
+export const Descriptiondelobjectifprofessionnel = () => {
     return (
         <div>
             <h2>OBJECTIF PROFESSIONNEL:</h2>
